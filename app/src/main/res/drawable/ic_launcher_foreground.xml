@@ -1,0 +1,68 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Camera Body (Rounded rect) -->
+    <path
+        android:fillColor="#FFCA28"
+        android:pathData="M27,42 C27,37.5 30.5,34 35,34 L63,34 C67.5,34 71,37.5 71,42 L71,68 C71,72.5 67.5,76 63,76 L35,76 C30.5,76 27,72.5 27,68 Z" />
+
+    <!-- Projector / Camera Lens cone -->
+    <path
+        android:fillColor="#FFB300"
+        android:pathData="M71,46 L82,38 C83.5,37 85,38 85,40 L85,70 C85,72 83.5,73 82,72 L71,64 Z" />
+
+    <!-- Circular aperture on camera body -->
+    <path
+        android:fillColor="#4A051A"
+        android:pathData="M49,55m-14,0a14,14 0 1,1 28,0a14,14 0 1,1 -28,0" />
+
+    <!-- Inner play triangle in aperture -->
+    <path
+        android:fillColor="#FFE082"
+        android:pathData="M45,48 L56,55 L45,62 Z" />
+
+    <!-- Film Reel 1 (top left) -->
+    <path
+        android:fillColor="#FFE082"
+        android:pathData="M37,28m-6,0a6,6 0 1,1 12,0a6,6 0 1,1 -12,0" />
+    <path
+        android:fillColor="#4A051A"
+        android:pathData="M37,28m-2.5,0a2.5,2.5 0 1,1 5,0a2.5,2.5 0 1,1 -5,0" />
+
+    <!-- Film Reel 2 (top right) -->
+    <path
+        android:fillColor="#FFE082"
+        android:pathData="M57,28m-6,0a6,6 0 1,1 12,0a6,6 0 1,1 -12,0" />
+    <path
+        android:fillColor="#4A051A"
+        android:pathData="M57,28m-2.5,0a2.5,2.5 0 1,1 5,0a2.5,2.5 0 1,1 -5,0" />
+
+    <!-- AI Sparkle 1 (top right magic) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M79,25 Q79,30 83,30 Q79,30 79,35 Q79,30 75,30 Q79,30 79,25 Z" />
+
+    <!-- AI Sparkle 2 (bottom left) -->
+    <path
+        android:fillColor="#FFE082"
+        android:pathData="M24,76 Q24,80 27,80 Q24,80 24,84 Q24,80 21,80 Q24,80 24,76 Z" />
+
+    <!-- Bengali Studio sound wave accents -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M35,80 L38,80 L38,85 L35,85 Z" />
+    <path
+        android:fillColor="#FFCA28"
+        android:pathData="M41,78 L44,78 L44,87 L41,87 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M47,81 L50,81 L50,84 L47,84 Z" />
+    <path
+        android:fillColor="#FFCA28"
+        android:pathData="M53,79 L56,79 L56,86 L53,86 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M59,80 L62,80 L62,85 L59,85 Z" />
+</vector>

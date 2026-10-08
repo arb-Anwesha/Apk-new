@@ -1,0 +1,6 @@
+{
+  "name": "অন্বেষার ভিডিও স্টুডিও",
+  "description": "এআই চালিত বাংলা ভিডিও ক্রিয়েশন স্টুডিও - স্ক্রিপ্ট, ভয়েসওভার, মিডিয়া এডিটিং ও প্রমোশনাল ভিডিও এক্সপোর্ট",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
